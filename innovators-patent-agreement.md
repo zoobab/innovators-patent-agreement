@@ -1,8 +1,8 @@
-## INNOVATOR’s PATENT AGREEMENT (IPA), Version 0.95
+## INNOVATOR’s PATENT AGREEMENT (IPA), Version 0.96
 
 WHEREAS the person(s) named below (collectively referred to as “Inventors”) have invented certain patentable subject matter which they desire to assign to the below-identified Company;
 
-WHEREAS Company and the Inventors believe that software patents should only be used to make a positive impact in the world and, accordingly, should only be used for defensive purposes;
+WHEREAS Company and the Inventors believe that software patents should be respected by programmers before actually writing code and, furthermore, should only be used for defensive purposes;
 
 NOW, THEREFORE, for good and valuable consideration, the receipt of which is hereby acknowledged, the parties agree as follows:
 
