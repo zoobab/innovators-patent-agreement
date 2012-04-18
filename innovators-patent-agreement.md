@@ -2,9 +2,9 @@
 
 WHEREAS the person(s) named below (collectively referred to as “Inventors”) have invented certain patentable subject matter which they desire to assign to the below-identified Company;
 
-WHEREAS Company and the Inventors believe that software patents should be respected by programmers before actually writing code and, furthermore, should only be used for defensive purposes;
-
 WHEREAS Computer programmers should refrain from writing code which might infringe the software patents of others, therefore not benefiting from freedom of expression and execution;
+
+WHEREAS Company and the Inventors believe that software patents should be respected by programmers before actually writing code and, furthermore, should only be used for defensive purposes;
 
 WHEREAS Patents shall be available for any inventions, whether products or processes, in all fields of technology, provided that they are new, involve an inventive step and are capable of industrial application;
 
@@ -40,4 +40,4 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
   
   
   
-_____________________________ Inventor
+_____________________________ Author
