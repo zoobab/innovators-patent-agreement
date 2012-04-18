@@ -1,4 +1,4 @@
-## INNOVATOR’s PATENT AGREEMENT (IPA), Version 0.96
+## INNOVATOR’s PATENT AGREEMENT (IPA), Version 0.97
 
 WHEREAS the person(s) named below (collectively referred to as “Inventors”) have invented certain patentable subject matter which they desire to assign to the below-identified Company;
 
