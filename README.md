@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 ## Innovators Patent Agreement
 
 The [Innovators Patent Agreement](https://github.com/twitter/innovators-patent-agreement/blob/master/innovators-patent-agreement.md) (IPA) is a new way to do patent assignment that keeps control in the hands of engineers and designers. 
